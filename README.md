@@ -49,8 +49,8 @@
   <p><b>Em Desenvolvimento</b></p>
   <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma">&nbsp;
   <img src="https://img.shields.io/badge/Godot-000?style=for-the-badge&logo=godot-engine">&nbsp;
-  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust">&nbsp;
-  <img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua">&nbsp;
+  <img src="https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=000000">&nbsp;
+  <img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=00008B">&nbsp;
 </div>
 
 ##
