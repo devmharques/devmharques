@@ -24,18 +24,6 @@
 ##
 
 <div>
-<div align="center"> 
-  <p><b>ESTATÍSTICAS</b></p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmharques&bg_color=0d1117&color=9400D3&line=4B0082&point=DA70D6&area=true&hide_border=true"/>
-</div>
-<div>
-  <img width="49%" max-height="195px" src="https://github-readme-stats.vercel.app/api?username=devmharques&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Marques github stats" /> 
-  <img width="41%" max-height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmharques&layout=compact&hide_border=true&title_color=9400D3&text_color=FFF&bg_color=0d1117" />
-</div>
-
-##
-
-<div>
 <div align="center">
   <p><b>CONHECIMENTO DE TECNOLOGIAS</b></p>
 </div>
@@ -65,6 +53,19 @@
 </div>
 
 ##
+
+<div>
+<div align="center"> 
+  <p><b>ESTATÍSTICAS</b></p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmharques&bg_color=0d1117&color=9400D3&line=4B0082&point=DA70D6&area=true&hide_border=true"/>
+</div>
+<div>
+  <img width="49%" max-height="195px" src="https://github-readme-stats.vercel.app/api?username=devmharques&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Marques github stats" /> 
+  <img width="41%" max-height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmharques&layout=compact&hide_border=true&title_color=9400D3&text_color=FFF&bg_color=0d1117" />
+</div>
+
+##
+
 
 <div>
 <div align="center">
