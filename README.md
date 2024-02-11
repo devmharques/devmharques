@@ -7,16 +7,17 @@
 </div>
 
 <div>
-<div align="center"> 
-  <br><p align="centre"><b>CONTATO</b></p>  
+<div align="center">
+  <p><b>CONTATO</b></p>
   <a href="https://github.com/devmharques/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://t.me/devpabllo" target="_blank"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" style="border-radius: 30px" target="_blank"></a>
   <a href="https://wa.link/0vj8dk" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366" style="border-radius: 30px" target="_blank"></a>
+  <a href="mailto:pablomharques.pessoal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red" style="border-radius: 30px" target="_blank"></a>
 </div>
 
 <div>
 <div align="center">
-   <br><p align="centre"><b>REDES SOCIAIS</b></p>
+   <br><p align="center"><b>REDES SOCIAIS</b></p>
    <a href="https://www.linkedin.com/in/marquesdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a>
    <a href = "https://www.instagram.com/the_phabllo"> <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" target="_blank"></a>
 </div>
