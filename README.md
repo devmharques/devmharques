@@ -32,7 +32,7 @@
   
   <h1 align="center">Redes</h1>
     <a href = "mailto:pablomharques.pessoal@gmail.com">
-      <img width="35" src="gmail.png">
+      <img width="40" src="gmail.svg">
     <a href = "https://www.instagram.com/the_phabllo">
       <img width="35" src="instagram.png">
     <a href = "https://x.com/DevPhabllo?t=XsWZnmfbTQ2bGF0LA1so0A&s=09">
