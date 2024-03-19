@@ -18,35 +18,31 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="300" alt="coding-time" src="code.jpg">
     <h1 align="center">Tecnologias que Gosto <3</h1>
-    <img align="center" height="30" width="40" alt="Rust-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-    <img align="center" height="30" width="40" alt="lua-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
-    <img align="center" height="30" width="40" alt="Figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-    <img align="center" height="30" width="40" alt="Godot-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg">
+    <img align="center" height="50" width="60" alt="Rust-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+    <img align="center" height="50" width="60" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+    <img align="center" height="50" width="60" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+    <img align="center" height="50" width="60" alt="lua-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
+    <img align="center" height="50" width="60" alt="Figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+    <img align="center" height="50" width="60" alt="Godot-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg">
     
    </div>
     
   
   <h1 align="center">Redes</h1>
     <a href = "mailto:pablomharques.pessoal@gmail.com">
-      <img width="40" src="">
-    </a>
+      <img width="35" src="gmail.png">
     <a href = "https://www.instagram.com/the_phabllo">
-      <img width="35" src="">
-    <a href = "">
-      <img width="35" src="">
-    </a>
+      <img width="35" src="instagram.png">
+    <a href = "https://x.com/DevPhabllo?t=XsWZnmfbTQ2bGF0LA1so0A&s=09">
+      <img width="35" src="twitter.png">
     <a href = "https://www.linkedin.com/in/marquesdev/">
-      <img width="40" src="">
-    </a>
-    <a href = "">
-      <img width="35" src="">
-    </a>
+      <img width="35" src="linkedin.svg">
+    <a href = "https://www.tiktok.com/@devpabllo?_t=8knG4n4Da34&_r=1">
+      <img width="35" src="tiktok.png">
     <a href = "https://t.me/devpabllo">
-      <img width="40" src=""></a>
+      <img width="35" src="telegram.png">
   </div>
 
 ##
