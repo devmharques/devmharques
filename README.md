@@ -30,14 +30,10 @@
       <img width="40" src="gmail.svg">
     <a href = "https://www.instagram.com/the_phabllo">
       <img width="35" src="instagram.png">
-    <a href = "https://x.com/DevPhabllo?t=XsWZnmfbTQ2bGF0LA1so0A&s=09">
-      <img width="35" src="twitter.png">
     <a href = "https://www.linkedin.com/in/marquesdev/">
       <img width="35" src="linkedin.svg">
     <a href = "https://www.tiktok.com/@devpabllo?_t=8knG4n4Da34&_r=1">
       <img width="35" src="tiktok.png">
-    <a href = "https://t.me/devpabllo">
-      <img width="35" src="telegram.png">
   </div>
 </div>
 
